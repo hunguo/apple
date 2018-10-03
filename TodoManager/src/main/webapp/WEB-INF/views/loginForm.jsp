@@ -10,7 +10,7 @@
 	<form action="/shop/login" method='post'>
 		<div class="error">${error }</div>
 		<table border=1>
-			<tr>
+			<tr> 
 				<th>아이디</th>
 				<th><input type='text' name="member_id"></th>
 			</tr>
